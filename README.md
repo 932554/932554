@@ -4,4 +4,4 @@
 - I enjoy playing video games, game exploiting & programming.
 - I am 16 years old.
 
-My Discord: ҃,#9968
+My Discord: ``҃,#9968``
