@@ -8,7 +8,7 @@
 ## Programming languages i am fluent in:
 - C#
 - Lua/Luau
-- NodeJS
+- NodeJS/JS
 
  ## Programming languages i am learning:
  - C/C++
