@@ -7,7 +7,10 @@
 
 ## Programming languages i am fluent in:
 - C#
-- C++
 - Lua/Luau
+- NodeJS
+
+ ## Programming languages i am learning:
+ - C/C++
 
 My Discord: ``҃,#9968``
