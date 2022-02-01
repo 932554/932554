@@ -4,6 +4,7 @@
 - I enjoy playing video games, game exploiting & programming.
 - I have recently got into web development.
 - I am 16 years old.
-- I hac lego gaems
+
+- Egg enthusiast
 
 My Discord: ``҃,#9968``
