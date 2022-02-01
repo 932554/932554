@@ -5,6 +5,4 @@
 - I have recently got into web development.
 - I am 16 years old.
 
-- Egg enthusiast
-
-My Discord: ``҃,#9968``
+My Discord: `҃,#9968`
