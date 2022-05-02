@@ -5,4 +5,4 @@
 - I have recently got into web development.
 - I am 16 years old.
 
-My Discord: `҃,#9968`
+My Discord: `҃,#0999`
