@@ -3,6 +3,6 @@
 - I am a self-taught programmer who is fluent in multiple programming languages.
 - I enjoy playing video games, game exploiting & programming.
 - I have recently got into web development.
-- I am 16 years old.
+- I am 17 years old.
 
-My Discord: `҃,#0999`
+My Discord: `҃҃,#0808`
