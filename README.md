@@ -6,4 +6,4 @@
 - I am in highschool.
 - I am 17 years old.
 
-My Discord: `҃,#0808`
+My Discord: `҃,#7451`
